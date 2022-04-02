@@ -3,7 +3,7 @@
 - 💻 Frontend Developer who loves to code, build meaningful apps, write techincal blogs and learn new things each day.
 - 🌍 I am passionate about making contributing to open-source more approachable, creating technology to elevate people, and building community
 - :pencil: My interest in the React ecosystem led me to launch <a href="https://this-react-curve.vercel.app/">React Curve</a>, open source project where I share and create small UI components to build large scale projects.
-- ⚽️ Fun fact: I love running, playing football and fifa
+- ⚡ Fun fact: I love running :running:, playing football and fifa ⚽️ 
   
 ## Projects :books:
 - <a href="https://realtors-this-mkhy.vercel.app/">Realtors</a> : Real estate app to make it easy for users to search for homes for sale and rent.
@@ -18,7 +18,7 @@
 ## Connect with me 🌎
 - Personal Website <a href="https://mkhy.pages.dev/">mkhy.dev</a> 💼
 - Learning in public on <a href="https://dev.to/this_mkhy">this_mkhy.dev</a> 📹
-- Sharing updates on <a href="https://www.linkedin.com/in/mohamed-khaled-yousef-421081a5">LinkedIn</a> and <a href="https://twitter.com/this_mkhy">Twitter</a>💼
+- Sharing updates on <a href="https://www.linkedin.com/in/mohamed-khaled-yousef-421081a5">LinkedIn</a> and <a href="https://twitter.com/this_mkhy">Twitter</a> :new:
 
 
 <!--
